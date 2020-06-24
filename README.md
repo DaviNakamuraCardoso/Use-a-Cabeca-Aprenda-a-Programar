@@ -36,6 +36,10 @@ Nesse capítulo, foram aprendidos os conceitos de input e output, o funcionament
 
 Com base no aprendizado do controlador de fluxo **while** e no uso do módulo **random**, criou-se um jogo no qual o jogador insere uma das três opções (pedra, papel ou tesoura) e o computador, já tendo em mente uma escolha própria, fornece o resultado.
 
+[pedrapapeltesoura.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/PedraPapelTesoura/pedrapapeltesoura.py): Jogo de pedra, papel ou tesoura em que se coleta informações do usuário, compara-se com a escolha prévia do computador e depois gera-se o resultado.
+
+[cores.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/PedraPapelTesoura/cores.py): Jogo em que o computador escolhe uma cor e o jogador deve adivinhar qual é. Ao final, é exibido o número de tentativas.
+
 
 
 ### Listas, iteração, loop for, *bubble sort* e funções
@@ -44,7 +48,7 @@ Com base no aprendizado do controlador de fluxo **while** e no uso do módulo **
 
 Do aprendizado deste capítulo destacam-se os conceitos de **listas**, listas paralelas e a **iteração** com base no *loop* **for**.  Também foi aprendido como se referir a determinados itens da lista. Na segunda parte do capítulo, aprendi o funcionamento do **bubble sort** e, ao fim, da função **sort**, já incorporada no **Python**.
 
-
+[]
 
 #### Capítulo 5: Funções 
 
