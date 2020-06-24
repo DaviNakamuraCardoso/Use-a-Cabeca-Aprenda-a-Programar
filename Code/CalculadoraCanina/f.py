@@ -1,1 +1,0 @@
-dog_name = Codie
