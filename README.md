@@ -48,7 +48,19 @@ Com base no aprendizado do controlador de fluxo **while** e no uso do módulo **
 
 Do aprendizado deste capítulo destacam-se os conceitos de **listas**, listas paralelas e a **iteração** com base no *loop* **for**.  Também foi aprendido como se referir a determinados itens da lista. Na segunda parte do capítulo, aprendi o funcionamento do **bubble sort** e, ao fim, da função **sort**, já incorporada no **Python**.
 
-[]
+[bubbles_r_us.py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Itera%C3%A7%C3%A3oeListas/bubbles_r_us.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IteraçãoeListas/bubbles_r_us.py)): Ainda sem conhecer o loop *for*, realizei a iteração da lista com o loop *while*.
+
+[bubbles_r_us(for).py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Itera%C3%A7%C3%A3oeListas/bubbles_r_us(for).py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IteraçãoeListas/bubbles_r_us(for).py)): Com o uso do loop for, o arquivo itera sobre duas listas paralelas, uma indicando o número de bolhas de uma solução e a outra indicando o custo destas soluções. Cria-se uma lista com cada solução e seu custo. Também utiliza-se do bubble sort para determinar as soluções mais eficientes e reordená-las da mais para a menos eficiente.
+
+[fibonacci.py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Itera%C3%A7%C3%A3oeListas/fibonacci.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IteraçãoeListas/fibonacci.py)): Usando **apenas** dos conceitos de listas e iteração, criei, para testar meus conhecimentos, uma calculadora de números da sequência de Fibonacci.
+
+[has_coconut.py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Itera%C3%A7%C3%A3oeListas/has_coconut.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IteraçãoeListas/has_coconut.py)): Com duas listas paralelas, uma de smoothies e outra de booleanos, o programa determina se determinada bebida (smoothie) tem ou não coco (coconut).
+
+[loop_sim_e_nao.py]()
+
+
+
+
 
 #### Capítulo 5: Funções 
 
