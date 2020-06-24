@@ -14,7 +14,7 @@ Nesse capítulo foram aprendidos conceitos básicos de ciência da computação,
 
 [rock.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/HelloWorld/rock.py): Primeira linha de código escrita em *Python*, que usa a função *print* para exibir a frase *You rock*.
 
-[frase.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/HelloWorld/rock.py): Programa que gera frases aleatórias
+[frase.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/HelloWorld/rock.py): Programa que gera frases aleatórias.
 
 
 
@@ -22,7 +22,13 @@ Nesse capítulo foram aprendidos conceitos básicos de ciência da computação,
 
 Nesse capítulo, foram aprendidos os conceitos de input e output, o funcionamento das variáveis, a procedência das operações matemáticas e o *statement* **if**. 
 
-[]
+[calculadoracanina.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CalculadoraCanina/calcudadoracanina.py): Recebe um input com a idade do cachorro e calcula sua idade em anos humanos.
+
+[firstlast.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CalculadoraCanina/firstlast.py): Exercício de inverter o valor de variáveis.
+
+[imc.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CalculadoraCanina/imc.py): Com o mesmo funcionamento da calculadora canina, esse programa calcula o [Índice de Massa Corporal]([https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal](https://pt.wikipedia.org/wiki/Índice_de_massa_corporal)) do usuário a partir da massa e da altura.
+
+[rascunho.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CalculadoraCanina/rascunho.py): Rascunho de um exercício do capítulo. 
 
 
 
