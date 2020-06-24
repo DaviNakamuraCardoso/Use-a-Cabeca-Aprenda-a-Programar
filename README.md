@@ -56,9 +56,9 @@ Do aprendizado deste capítulo destacam-se os conceitos de **listas**, listas pa
 
 [has_coconut.py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Itera%C3%A7%C3%A3oeListas/has_coconut.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IteraçãoeListas/has_coconut.py)): Com duas listas paralelas, uma de smoothies e outra de booleanos, o programa determina se determinada bebida (smoothie) tem ou não coco (coconut).
 
-[loop_sim_e_nao.py]()
+[loop_sim_e_nao.py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Itera%C3%A7%C3%A3oeListas/loop_sim_e_nao.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IteraçãoeListas/loop_sim_e_nao.py)): Cria aleatoriamente 999 respostas variando entre 'sim' e 'não'.
 
-
+[smoothies.py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Itera%C3%A7%C3%A3oeListas/smoothies.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IteraçãoeListas/smoothies.py)): Prática de manipulação de listas.
 
 
 
@@ -66,11 +66,23 @@ Do aprendizado deste capítulo destacam-se os conceitos de **listas**, listas pa
 
 Nesse capítulo aprendi a refatorar códigos com o uso de **funções**, bem como o escopo de variáveis globais e locais, o que são **parâmetros**, entre outras coisas. 
 
+[auau.py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Fun%C3%A7%C3%B5es/auau.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Funções/auau.py)): Define uma função que, a partir dos parâmetros peso e nome exibe o latido de um cachorro.
+
+[dogs.py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Fun%C3%A7%C3%B5es/dogs.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Funções/dogs.py)): Ainda sem o conhecimento de funções, cria-se duas listas paralelas que contêm, respectivamente, o nome dos cachorros e seu peso para, a partir disso, definir seu latido.
+
+[how_get_there.py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/tree/master/Code/Fun%C3%A7%C3%B5es](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/tree/master/Code/Funções)): Define uma função que, a partir de uma distância, define qual é o melhor modo de se chegar ao destino.
+
+[definindo_avatares.py]([https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Fun%C3%A7%C3%B5es/definindo_avatares.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/Funções/definindo_avatares.py)): Recebe como parâmetros as características de um avatar, como cor do cabelo, cor dos olhos, sexo, presença de óculos ou barba e exibe mensagens com base nas escolhas do usuário.
+
 
 
 #### Capítulo 6: Índice de legibilidade Flesch
 
 Para reunir todos os conceitos dos capítulos anteriores, desenvolveu-se um programa que analisa o [Índice de Legibilidade Flesch-Kincaid](https://pt.wikipedia.org/wiki/Legibilidade_de_Flesch) de um texto e seu respectivo grau de entendimento para pessoas de certa escolaridade. Resumidamente, esse Índice calcula a facilidade de leitura de um texto e se esse texto poderia ser entendido por alunos de 11 anos que cursam o 7º ano do Ensino Fundamental ou se é um texto que só poderia ser compreendido por alunos da Graduados.
+
+[compute_readability.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IndicadordeLegibilidadeFlesch/compute_readabillity.py): Importa o módulo [chomsky.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IndicadordeLegibilidadeFlesch/chomsky.py), que contêm um texto de Noam Chomsky, para, a partir da contagem do número de sílabas, palavras e frases, calcular o Índice de Legibilidade Flesch-Kincaid daquele texto.
+
+[just_a_module.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IndicadordeLegibilidadeFlesch/just_a_module.py): Programa que, quando é o código *main*, exibe a frase: "Eu sou a main", e quando é um módulo de outro exibe a frase: "Sou só um módulo".
 
 
 
