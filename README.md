@@ -2,7 +2,7 @@
  Programas gerados durante o aprendizado de programação com base no livro *Use a Cabeça! Aprenda a Programar*.
  Esse repositório contém todos os exercícios em Python organizados nos capítulos de 1 a 12. 
 
-Os capítulos estão nomeados de acordo com o projeto de cada capítulos, desde os mais simples, como o 'Hello World' do capítulo 1 até o complexo 'Jogo da Vida' do capítulo 11. 
+Os capítulos estão nomeados de acordo com o projeto de cada capítulo,  desde os mais simples, como o 'Hello World' do capítulo 1 até o complexo 'Jogo da Vida' do capítulo 11. 
 
 ## Os capítulos
 
