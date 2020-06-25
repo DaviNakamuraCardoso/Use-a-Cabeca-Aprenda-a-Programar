@@ -92,6 +92,10 @@ Para reunir todos os conceitos dos capítulos anteriores, desenvolveu-se um prog
 
 Com uma introdução aos **objetos**, seus atributos e métodos, o capítulo se utilizou das  turtles do Python para criar uma corrida de tartarugas, na qual tartarugas de várias cores distintas correm em uma pista.
 
+[analyze.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CorridadeTartarugas/analyze.py): Este programa é o mesmo do capítulo passado, porém com Docstrings e explicações
+
+
+
 
 
 #### Capítulo 8: Fibonacci e Fractais
