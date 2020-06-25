@@ -84,6 +84,8 @@ Para reunir todos os conceitos dos capítulos anteriores, desenvolveu-se um prog
 
 [just_a_module.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IndicadordeLegibilidadeFlesch/just_a_module.py): Programa que, quando é o código *main*, exibe a frase: "Eu sou a main", e quando é um módulo de outro exibe a frase: "Sou só um módulo".
 
+[main.py]()
+
 
 
 ### Objetos, recursão e dicionários
@@ -92,7 +94,9 @@ Para reunir todos os conceitos dos capítulos anteriores, desenvolveu-se um prog
 
 Com uma introdução aos **objetos**, seus atributos e métodos, o capítulo se utilizou das  turtles do Python para criar uma corrida de tartarugas, na qual tartarugas de várias cores distintas correm em uma pista.
 
-[analyze.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CorridadeTartarugas/analyze.py): Este programa é o mesmo do capítulo passado, porém com Docstrings e explicações
+[analyze.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CorridadeTartarugas/analyze.py): Este programa é o mesmo do capítulo passado, porém com *Docstrings* e explicações.
+
+[cory_analyze.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CorridadeTartarugas/cory_analyze.py): Importa o módulo *analyze.py* para analisar um texto.
 
 
 
