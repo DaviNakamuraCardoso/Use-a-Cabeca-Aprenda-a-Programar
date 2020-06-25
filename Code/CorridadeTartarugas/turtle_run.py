@@ -43,7 +43,7 @@ nomes = {'red': 'Vermelha', 'yellow': 'Amarela', 'pink': 'Rosa', 'blue': 'Azul',
          'white': 'Branca'}
 arg = 'A Tartaruga ' + nomes[name] + ' é a vencedora!'
 pencil.pencolor(name)
-pencil.write(arg, move=False, align="center", font=("Gotham", 45, "normal"))
+pencil.write(arg.upper(), move=False, align="center", font=("Gotham", 35, "normal"))
 pencil.hideturtle()
 screen.exitonclick()
             

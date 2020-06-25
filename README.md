@@ -1,4 +1,9 @@
 # Use a Cabeca-Aprenda a Programar
+
+[toc]
+
+
+
  Programas gerados durante o aprendizado de programação com base no livro *Use a Cabeça! Aprenda a Programar*.
  Esse repositório contém todos os exercícios em Python organizados nos capítulos de 1 a 12. 
 
@@ -97,6 +102,10 @@ Com uma introdução aos **objetos**, seus atributos e métodos, o capítulo se 
 [analyze.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CorridadeTartarugas/analyze.py): Este programa é o mesmo do capítulo passado, porém com *Docstrings* e explicações.
 
 [cory_analyze.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CorridadeTartarugas/cory_analyze.py): Importa o módulo *analyze.py* para analisar um texto.
+
+[turtle_run.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CorridadeTartarugas/turtle_run.py): Código que cria 5 *turtles* de cores distintas e, a partir do módulo *random* define a movimentação delas. Ao final, é exibida na tela uma mensagem com o nome da vencedora. 
+
+
 
 
 
