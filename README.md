@@ -107,11 +107,25 @@ Com uma introdução aos **objetos**, seus atributos e métodos, o capítulo se 
 
 Nesse capítulo aprendi a usar o **método recursivo**, criando um caso base e um caso recursivo para a resolução de problemas como  o cálculo da sequência de Fibonacci. Contudo, para que isso fosse possível, também foi preciso aprender a utilizar **dicionários** para armazenar valores e tornar o programa exponencialmente mais eficiente.
 
+[palindromo.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/FibonaccieFractais/palindromo.py): Determinando quais palavras são palíndromos a partir de métodos simples de manipulação de strings.
+
+[palindromo_recursao.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/FibonaccieFractais/palindromo_recursao.py): Mediante os conceitos de recursão, criou-se um programa que determina quais palavras são palíndromos.
+
+[soma_recursiva.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/FibonaccieFractais/soma_recursiva.py): Somando recursivamente os itens de uma lista
+
+[dicionario.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/FibonaccieFractais/dicionario.py): Criando um programa que utiliza de um dicionário para armazenar os dados de vários usuários e, a partir do número de amigos de cada um deles, definir quem é o usuário mais antissocial.
+
+[fractais.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/FibonaccieFractais/fractais.py): Com os conceitos de turtles e recursão, o código cria fractais na tela
+
+[fibonacci_recursao.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/FibonaccieFractais/fibonacci_recursao.py): Código que associa conceitos de dicionários e recursão para criar um programa mais efetivo que calcula os números da sequência de Fibonacci.
+
 
 
 #### Capítulo 9: Crazy Libs
 
 Aprendendo a utilizar as funções open() e close() do Python, bem como a ler e a escrever em arquivos, seja a partir de seu path absoluto ou relativo, criei um jogo que  lê um arquivo com um texto e, com base no input fornecido pelo usuário, gera um novo arquivo de texto com frases absurdas e muito engraçadas.
+
+[crazy_lib.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CrazyLibs/crazy_lib.py): Programa que abre *lib.txt* para identificar palavras em caixa alta e substituí-las por input do usuário, posteriormente editando o arquivo *crazy_lib.txt*, no qual é inserido o texto com  as palavras já substituídas.
 
 
 
