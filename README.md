@@ -135,6 +135,10 @@ Aprendendo a utilizar as funções open() e close() do Python, bem como a ler e 
 
 Utilizando dos conceitos de API e com o uso do JSON, captei as informações referentes à localização da Estação Espacial Internacional (ISS, em inglês), criando uma janela com turtles que indica, precisamente, a posição da ISS.
 
+[london.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/MapadaISS/london.py): Usa dicionários para determinar a temperatura em Londres.
+
+[ISS.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/MapadaISS/ISS.py): Captura a API da Estação Espacial Internacional (*International Space Station*, em inglês) para, com a utilização do JSON e do módulo requests, obter a localização, em tempo real, da *ISS*. Importando os turtles e utilizando o arquivo *earth.gif*, cria uma tela cujo fundo é o mapa do planeta. E, a partir do arquivo *iss.gif*, exibe na tela a Estação Espacial, com sua localização sendo atualizada em tempo real.
+
 
 
 #### Capítulo 11: Jogo da Vida
@@ -147,6 +151,10 @@ Nesse capítulo criei uma interface de usuário que contém o [Jogo da Vida](htt
 4. Se uma célula morta tem exatamente 3 vizinhas, ela vive
 
 A partir da criação de uma matriz quadrada que contém os seres vivos e uma interface que permite que o usuário clique na tela para matar ou reviver uma célula, bem como escolher um padrão já determinado de disposição de seres.
+
+[model.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/JogodaVida/model.py): É o programa que processa os dados do funcionamento da grade de células. Construindo uma matriz quadrada 100 x 100, cria uma grade de 10000 células, inicialmente mortas. 
+
+[root.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/JogodaVida/root.py): A partir do módulo Tkinter, cria uma Interface Gráfica de Usuário (*Graphical User Interface*, em inglês) com as células. O usuário pode optar por três opções de grade inicial: Random (aleatória), Glider e Glider Gun. Ou também pode clicar na tela e criar a sua própria. Uma vez que o botão Start é pressionado, começa a interação, que é processada pelo módulo importado *root.py*, e é possível Pausar essa interação. Também há como reiniciar a grade, clicando no botão Clear.
 
 
 
