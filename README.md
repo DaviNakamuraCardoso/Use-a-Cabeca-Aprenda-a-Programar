@@ -160,5 +160,11 @@ A partir da criação de uma matriz quadrada que contém os seres vivos e uma in
 
 #### Capítulo 12: Hotel para Cachorros com Objetos
 
-Criando classes de objetos, primeiramente a superclasse *Dog* (Cachorro) e posteriormente as subclasses, *Service Dog* (Cão guia), sendo que o método *bark* da classe *Dog* foi sobrescrito na para os cães-guia, para que eles não latissem em serviço, *Frisbee Dog* (Cão de Frisbee), criamos uma classe Hotel, operada por *Dog Walkers*, que herdam suas características da classe *Person* (pessoa). Esse hotel aceita apenas membros da classe *Dog*, e têm certos métodos, como a hora de latir e a hora de passear.
+Nesse capítulo aprendi a implementar uma programação mais orientada a objetos, que permite um encapsulamento maior das partes do código, na qual a criação de classes torna-se mais intuitiva. A partir de superclasses criei subclasses que herdam atributos e até sobrescrevi alguns métodos. 
+
+
+
+[dog_hotel.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/HoteldeCachorroscomObjetos/dog_hotel.py): Criando classes de objetos, primeiramente a superclasse *Dog* (Cachorro) e posteriormente as subclasses, *Service Dog* (Cão guia), sendo que o método *bark* da classe *Dog* foi sobrescrito na para os cães-guia, para que eles não latissem em serviço, *Frisbee Dog* (Cão de Frisbee), criamos uma classe Hotel, operada por *Dog Walkers*, que herdam suas características da classe *Person* (pessoa). Esse hotel aceita apenas membros da classe *Dog*, e têm certos métodos, como a hora de latir e a hora de passear.
+
+
 
