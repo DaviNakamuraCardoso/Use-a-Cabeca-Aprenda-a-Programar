@@ -1,10 +1,8 @@
-# Use a Cabeca-Aprenda a Programar
+# *Use a Cabeça! Aprenda a Programar*
 
 [toc]
 
-
-
- Programas gerados durante o aprendizado de programação com base no livro *Use a Cabeça! Aprenda a Programar*.
+Programas gerados durante o aprendizado de programação com base no livro *Use a Cabeça! Aprenda a Programar*.
  Esse repositório contém todos os exercícios em Python organizados nos capítulos de 1 a 12. 
 
 Os capítulos estão nomeados de acordo com o projeto de cada capítulo,  desde os mais simples, como o 'Hello World' do capítulo 1 até o complexo 'Jogo da Vida' do capítulo 11. 
@@ -89,9 +87,7 @@ Para reunir todos os conceitos dos capítulos anteriores, desenvolveu-se um prog
 
 [just_a_module.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IndicadordeLegibilidadeFlesch/just_a_module.py): Programa que, quando é o código *main*, exibe a frase: "Eu sou a main", e quando é um módulo de outro exibe a frase: "Sou só um módulo".
 
-[main.py]()
-
-
+[main.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/IndicadordeLegibilidadeFlesch/main.py): Exibe na tela "Saudações da main" quando este é o módulo main
 
 ### Objetos, recursão e dicionários
 
@@ -104,10 +100,6 @@ Com uma introdução aos **objetos**, seus atributos e métodos, o capítulo se 
 [cory_analyze.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CorridadeTartarugas/cory_analyze.py): Importa o módulo *analyze.py* para analisar um texto.
 
 [turtle_run.py](https://github.com/DaviNakamuraCardoso/Use-a-Cabeca-Aprenda-a-Programar/blob/master/Code/CorridadeTartarugas/turtle_run.py): Código que cria 5 *turtles* de cores distintas e, a partir do módulo *random* define a movimentação delas. Ao final, é exibida na tela uma mensagem com o nome da vencedora. 
-
-
-
-
 
 
 
